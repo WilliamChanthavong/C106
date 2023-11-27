@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: rgb(121, 203, 196);
+    background-color: rgb(255, 255, 255);
     color: black;
 }
 
@@ -11,7 +11,7 @@ body{
 }
 
 .copy_right_footer{
-    background-color: white;
+    background-color: rgb(160, 160, 160);
     margin-top: 325px;
     bottom: 0;
     margin-bottom: 0px;
