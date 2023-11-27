@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgb(121, 203, 196);
+    color: black;
+}
+
+#start_button{
+    width: 7.5%;
+    color: black;
+    border-radius: 5px;
+}
+
+.copy_right_footer{
+    background-color: white;
+    margin-top: 325px;
+    bottom: 0;
+    margin-bottom: 0px;
+    height: 50px;
+    text-align: center;
+    line-height: 1.5;
+    padding-top: 7.5px;
+}
